@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dxl2c6ch6bio1"]
+
+[ext_resource type="Texture2D" uid="uid://w78cijwxs0jt" path="res://icon.svg" id="1_qn4fr"]
+
+[node name="GPUParticles2D" type="GPUParticles2D"]
+amount = 1
+texture = ExtResource("1_qn4fr")
